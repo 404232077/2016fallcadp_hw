@@ -21,6 +21,7 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@@edit index.html</vh></v>
+<v t="leo.20161116164418.1"><vh>@@edit README.md</vh></v>
 <v t="leo.20161111004638.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161111004638.2" a="E"><vh>html</vh>
 <v t="leo.20161111004638.3"><vh>head</vh></v>
@@ -71,11 +72,11 @@
 <v t="leo.20161111004638.34"><vh>用2016fallcadp_bg6的名稱,建立小組倉儲</vh></v>
 </v>
 </v>
-<v t="leo.20161111004638.35"><vh>20161014W5</vh>
+<v t="leo.20161111004638.35" a="E"><vh>20161014W5</vh>
 <v t="leo.20161111004638.36"><vh>上課日期</vh>
 <v t="leo.20161111004638.37"><vh>20161014</vh></v>
 </v>
-<v t="leo.20161111004638.38"><vh>上課內容1</vh>
+<v t="leo.20161111004638.38" a="E"><vh>上課內容1</vh>
 <v t="leo.20161111004638.39"><vh>初步認識SolveSpace</vh></v>
 </v>
 </v>
@@ -1108,5 +1109,13 @@ Created by [404232077](https://404232077.github.io/2016fallcadp_hw/blog/)
 @others
 &lt;/section&gt;
 </t>
+<t tx="leo.20161116164418.1">@language md
+# 2016fallcadp
+
+國立虎尾科技大學機械設計工程系 2016 Fall 電腦輔助設計實習
+
+2016fallcadp 課程投影片: http://404232077.github.io/2016fallcadp
+
+2016fallcadp 課程網誌: http://404232077.github.io/2016fallcadp/blog</t>
 </tnodes>
 </leo_file>

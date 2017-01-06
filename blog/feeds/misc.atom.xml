@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-11-04T12:00:00+08:00</updated><entry><title>2016 11 04 W8 網誌</title><link href="./2016-11-04-w8-wang-zhi.html" rel="alternate"></link><updated>2016-11-04T12:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2016-11-04:./2016-11-04-w8-wang-zhi.html</id><summary type="html">&lt;iframe src="./../data/threejs/block.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../mechanism/conbination.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category></entry><entry><title>2016 10 29 W7 網誌</title><link href="./2016-10-29-w7-wang-zhi.html" rel="alternate"></link><updated>2016-10-29T12:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2016-10-29:./2016-10-29-w7-wang-zhi.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/threejs/conbination.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/194219699" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="使用導引"></category></entry><entry><title>2016 10 29 W7 網誌</title><link href="./2016-10-29-w7-wang-zhi.html" rel="alternate"></link><updated>2016-10-29T12:00:00+08:00</updated><author><name>404232077</name></author><id>tag:,2016-10-29:./2016-10-29-w7-wang-zhi.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" fra&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+meborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;路徑圖&lt;/p&gt;
 &lt;a&gt;&lt;img src="../photo/Trace Point.PNG" /&gt;&lt;/a&gt;

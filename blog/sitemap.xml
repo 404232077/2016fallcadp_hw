@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-07T16:29:22-00:00</lastmod>
+<lastmod>2017-01-08T22:44:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-07T16:29:22-00:00</lastmod>
+<lastmod>2017-01-08T22:44:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-07T16:29:22-00:00</lastmod>
+<lastmod>2017-01-08T22:44:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-07T16:29:22-00:00</lastmod>
+<lastmod>2017-01-08T22:44:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,6 +39,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./er-shang-xue-qi-xin-de.html</loc>
+<lastmod>2017-11-07T12:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tui-song-shang-chuan-shi-yu-dao-de-wen-ti.html</loc>
 <lastmod>2017-11-05T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -46,7 +53,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2016-11-04-w8-wang-zhi.html</loc>
+<loc>./solvespacezu-jian.html</loc>
 <lastmod>2016-11-04T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -103,14 +110,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2017-11-05T12:00:00+08:06</lastmod>
+<lastmod>2017-11-07T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/shang-ke-nei-rong.html</loc>
-<lastmod>2016-09-23T12:00:00+08:06</lastmod>
+<loc>./tag/shi-yong-dao-yin.html</loc>
+<lastmod>2017-11-07T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,15 +130,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/shi-yong-dao-yin.html</loc>
-<lastmod>2017-11-05T12:00:00+08:06</lastmod>
+<loc>./tag/shang-ke-nei-rong.html</loc>
+<lastmod>2016-09-23T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/404232077.html</loc>
-<lastmod>2017-11-05T12:00:00+08:06</lastmod>
+<lastmod>2017-11-07T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

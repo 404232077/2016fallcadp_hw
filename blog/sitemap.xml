@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-12T14:59:18-00:00</lastmod>
+<lastmod>2017-01-12T23:51:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-12T14:59:18-00:00</lastmod>
+<lastmod>2017-01-12T23:51:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-12T14:59:18-00:00</lastmod>
+<lastmod>2017-01-12T23:51:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-12T14:59:18-00:00</lastmod>
+<lastmod>2017-01-12T23:51:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -116,7 +116,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/ying-pian-jiang-jie.html</loc>
+<loc>./tag/shang-ke-nei-rong.html</loc>
 <lastmod>2016-09-23T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -130,7 +130,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/shang-ke-nei-rong.html</loc>
+<loc>./tag/ying-pian-jiang-jie.html</loc>
 <lastmod>2016-09-23T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
